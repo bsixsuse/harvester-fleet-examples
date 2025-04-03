@@ -6,7 +6,7 @@ metadata:
   name: opensuse-leap-155
   labels:
     harvesterhci.io/image-type: raw_qcow2
-    harvesterhci.io/imageDisplayName: "opensuse-leap-15.5"
+    harvesterhci.io/imageDisplayName: opensuse-leap-15.5
     harvesterhci.io/os-type: openSUSE
   namespace: default
 spec:
