@@ -11,7 +11,7 @@ metadata:
   namespace: default
 spec:
   checksum: ""
-  displayName: opensuse
+  displayName: opensuse-155-nocloud-qcow-fleet
   pvcName: ""
   pvcNamespace: ""
   retry: 3
