@@ -6,7 +6,7 @@ metadata:
     network.harvesterhci.io/ready: "true"
     network.harvesterhci.io/type: L2VlanNetwork
     network.harvesterhci.io/vlan-id: "1"
-  name: mgmt-vlan100
+  name: mgmt-vlan1001
   namespace: default
 spec:
   config: '{
