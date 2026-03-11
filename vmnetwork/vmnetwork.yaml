@@ -14,7 +14,7 @@ spec:
     "name": "workload",
     "type": "bridge",
     "bridge": "mgmt-br",
-    "promiscMode": "true",
+    "promiscMode": true,
     "vlan": 100,
     "ipam": {}
   }'
