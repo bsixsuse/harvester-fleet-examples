@@ -6,9 +6,9 @@ metadata:
   name: opensuse-15-6-nocloud-qcow-fleet
   labels:
     harvesterhci.io/image-type: raw_qcow2
-    harvesterhci.io/imageDisplayName: opensuse-leap-15.6-nocloud-qcow
+    harvesterhci.io/imageDisplayName: opensuse-15-6-nocloud-qcow-fleet
     harvesterhci.io/os-type: openSUSE
-  namespace: default
+  namespace: eng
 spec:
   checksum: sha256:fb627079be94895256c031796e7ce770a614d7bdfaa167ac6a571967d142f07c
   displayName: opensuse-15-6-nocloud-qcow-fleet
