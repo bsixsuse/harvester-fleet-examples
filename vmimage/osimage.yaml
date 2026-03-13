@@ -8,7 +8,7 @@ metadata:
     harvesterhci.io/image-type: raw_qcow2
     harvesterhci.io/imageDisplayName: opensuse-15-6-nocloud-qcow-fleet
     harvesterhci.io/os-type: openSUSE
-  namespace: eng
+  namespace: dev
 spec:
   checksum: "" 
   displayName: opensuse-15-6-nocloud-qcow-fleet
