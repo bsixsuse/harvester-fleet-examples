@@ -10,7 +10,7 @@ metadata:
     harvesterhci.io/os-type: openSUSE
   namespace: eng
 spec:
-  checksum: 
+  checksum: "" 
   displayName: opensuse-15-6-nocloud-qcow-fleet
   retry: 3
   sourceType: download
